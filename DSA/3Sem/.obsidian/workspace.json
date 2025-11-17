@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "05bbf3fffac66a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ef80be7da11cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ff817434aacf19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam/Theory/Question 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Question 2"
+            }
+          },
+          {
+            "id": "2a486758a5d7b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Exam/Attachments/Pasted image 20251117154254.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251117154254"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "159bc9efbded393a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d44b874946fb3784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e738b8b0f93bbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b683303fe4ef287d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "acd81a88b59fea21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "031fa56aa6cf67cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3518c19f53f493e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f2f3a85a3bf9858",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exam/Theory/Question 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Question 2"
+            }
+          },
+          {
+            "id": "729d2b82771b4e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exam/Theory/Question 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Question 2"
+            }
+          },
+          {
+            "id": "ba9f308b75f0d861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9c16cca30d35756b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d679a653418c478a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exam/Theory/Question 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Question 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "40ff817434aacf19",
+  "lastOpenFiles": [
+    "Exam/readypdf/Question 2.pdf",
+    "Exam/Attachments/Pasted image 20251117183814.png",
+    "Exam/Attachments/Pasted image 20251117183736.png",
+    "Exam/Attachments/Pasted image 20251117183251.png",
+    "Exam/Attachments/Pasted image 20251117183053.png",
+    "Exam/Theory/Question 1.md",
+    "Exam/Theory/Question 2.md",
+    "Exam/Attachments/Pasted image 20251117154254.png",
+    "Exam/readypdf/Question 1.pdf",
+    "Exam/Attachments/Pasted image 20251117162625.png",
+    "Exam/Attachments/Pasted image 20251117160753.png",
+    "Exam/Attachments/Pasted image 20251117160715.png",
+    "Exam/Attachments/Pasted image 20251117160554.png",
+    "Exam/Attachments/Pasted image 20251117160502.png",
+    "Без названия.md",
+    "Exam/Attachments",
+    "Exam/Theory",
+    "Exam/readypdf",
+    "Без названия",
+    "Exam"
+  ]
+}
