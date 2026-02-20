@@ -11,14 +11,12 @@
             "id": "40ff817434aacf19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Exam/Theory/Question 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Exam/readypdf/Question 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Question 2"
+              "icon": "lucide-file-text",
+              "title": "Question 1"
             }
           },
           {
@@ -86,13 +84,11 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "031fa56aa6cf67cb",
@@ -199,20 +195,23 @@
   },
   "active": "40ff817434aacf19",
   "lastOpenFiles": [
-    "Exam/readypdf/Question 2.pdf",
-    "Exam/Attachments/Pasted image 20251117183814.png",
-    "Exam/Attachments/Pasted image 20251117183736.png",
-    "Exam/Attachments/Pasted image 20251117183251.png",
-    "Exam/Attachments/Pasted image 20251117183053.png",
+    "Exam/readypdf/Question 1.pdf",
     "Exam/Theory/Question 1.md",
     "Exam/Theory/Question 2.md",
-    "Exam/Attachments/Pasted image 20251117154254.png",
-    "Exam/readypdf/Question 1.pdf",
-    "Exam/Attachments/Pasted image 20251117162625.png",
-    "Exam/Attachments/Pasted image 20251117160753.png",
-    "Exam/Attachments/Pasted image 20251117160715.png",
-    "Exam/Attachments/Pasted image 20251117160554.png",
-    "Exam/Attachments/Pasted image 20251117160502.png",
+    "Exam/Theory/Question 3.md",
+    "Exam/Theory/Question 5.md",
+    "Exam/Theory/Question 4.md",
+    "Exam/Attachments/Pasted image 20251125222646.png",
+    "Exam/Attachments/Pasted image 20251125222634.png",
+    "Exam/Attachments/Pasted image 20251119173807.png",
+    "Exam/Attachments/Pasted image 20251119173729.png",
+    "Exam/Attachments/Pasted image 20251118115417.png",
+    "Exam/Attachments/Pasted image 20251118115203.png",
+    "Exam/Attachments/Pasted image 20251118115119.png",
+    "Exam/Attachments/Pasted image 20251118115014.png",
+    "Exam/Attachments/Pasted image 20251118114757.png",
+    "Exam/Attachments/Pasted image 20251118114716.png",
+    "Exam/readypdf/Question 2.pdf",
     "Без названия.md",
     "Exam/Attachments",
     "Exam/Theory",
